@@ -1,5 +1,5 @@
-#Waste-Water-Treatment-Python-Project
-📊 Data Analytics Project: Waste Water Treatment Plant Analysis 🌊 Embarking on a transformative journey in data analytics, I recently completed a comprehensive project centered on wastewater treatment. This endeavor seamlessly blended data cleaning, modeling, and visualization to unearth crucial insights. Let's delve into the process:
+**#Waste-Water-Treatment-Python-Project
+**📊 Data Analytics Project: Waste Water Treatment Plant Analysis 🌊 Embarking on a transformative journey in data analytics, I recently completed a comprehensive project centered on wastewater treatment. This endeavor seamlessly blended data cleaning, modeling, and visualization to unearth crucial insights. Let's delve into the process:
 
     Data Cleaning and Transformation: 🧹🔄
 Prior to beginning the project, the data had to be cleaned and transformed meticulously. Using Pandas and NumPy in Python, I converted object data types to datetime, ensuring robust temporal analysis. 📈
